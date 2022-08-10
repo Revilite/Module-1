@@ -60,6 +60,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    
 }
 
 /*positioning for photos for content class*/
@@ -78,7 +79,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/*CSS for benefits  class side bar*/
+/*CSS for benefits class*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
