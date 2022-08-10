@@ -13,4 +13,4 @@
 
 ## Visuals
 
-![Picture of website](.\ReadME_Images\Full_page.png)
+![Picture of website](./ReadME_Images/Full_page.png)                
