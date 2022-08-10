@@ -1,3 +1,4 @@
+/*basic set up for everything in page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*used for navigation links and header text and background */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,7 +27,7 @@ header h1 .seo {
 }
 
 header nav {
-    padding-top: 15px;
+    padding-top: 15px; 
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -41,6 +43,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +52,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* CSS for main photo*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +62,23 @@ p {
     background-position: center;
 }
 
+/*positioning for photos for content class*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
 .float-right {
     float: right;
     margin-left: 25px;
 }
+
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*CSS for benefits  class side bar*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +137,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*CSS for content class */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +191,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*CSS for footer*/
 footer {
     padding: 30px;
     clear: both;
