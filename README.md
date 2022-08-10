@@ -1,4 +1,4 @@
-# Horiseon-Refactor-Project
+# Horiseon Refactor Project
 
 
 
@@ -13,4 +13,4 @@
 
 ## Visuals
 
-![picture of website](ReadME_Images\Full_page.png)
+![Picture of website](.\ReadME_Images\Full_page.png)
