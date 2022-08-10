@@ -13,5 +13,5 @@
 
 ## Visuals
 
-![picture of top half of the website](assets\images\Top_Half.png)
-![picture of bottom hald of the website](assets\images\Bottom_Half.png)
+![picture of top half of the website](.\assets\images\Top_Half.png)
+![picture of bottom hald of the website](.\assets\images\Bottom_Half.png)
