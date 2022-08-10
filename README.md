@@ -13,5 +13,4 @@
 
 ## Visuals
 
-![picture of top half of the website](ReadME_Images\Top_Half.png)
-![picture of bottom half of the website](ReadME_Images\Bottom_Half.png)
+![picture of website](ReadME_Images\Full_page.png)
