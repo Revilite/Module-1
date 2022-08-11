@@ -1,3 +1,4 @@
+/*basic CSS styleing*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*information and navigation links at top*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*alterations to big picture*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*positioning for photos for content underneath*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+/*for the benefits class and photos*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +136,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*used for content class info*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +191,7 @@ p {
     font-size: 36px;
 }
 
+/*for copywrite at bottom*/
 footer {
     padding: 30px;
     clear: both;
