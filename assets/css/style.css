@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 /*basic CSS styleing*/
-=======
-/*basic set up for everything in page */
->>>>>>> 610db39fe6cd9fb028c9a01133172af9e19828b2
+
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -13,11 +12,11 @@ body {
     background-color: #d9dcd6;
 }
 
-<<<<<<< HEAD
+
 /*information and navigation links at top*/
-=======
-/*used for navigation links and header text and background */
->>>>>>> 610db39fe6cd9fb028c9a01133172af9e19828b2
+
+
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -60,11 +59,10 @@ a {
 p {
     font-size: 16px;
 }
-<<<<<<< HEAD
-/*alterations to big picture*/
-=======
+
+
 /* CSS for main photo*/
->>>>>>> 610db39fe6cd9fb028c9a01133172af9e19828b2
+
 .hero {
     height: 800px;
     width: 100%;
@@ -74,12 +72,12 @@ p {
     background-position: center;
     
 }
-<<<<<<< HEAD
-/*positioning for photos for content underneath*/
-=======
 
-/*positioning for photos for content class*/
->>>>>>> 610db39fe6cd9fb028c9a01133172af9e19828b2
+/*positioning for photos for content underneath*/
+
+
+
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -95,12 +93,10 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-<<<<<<< HEAD
+
 
 /*for the benefits class and photos*/
-=======
-/*CSS for benefits class*/
->>>>>>> 610db39fe6cd9fb028c9a01133172af9e19828b2
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -159,11 +155,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-<<<<<<< HEAD
+
 /*used for content class info*/
-=======
-/*CSS for content class */
->>>>>>> 610db39fe6cd9fb028c9a01133172af9e19828b2
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -217,12 +211,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-<<<<<<< HEAD
 
 /*for copywrite at bottom*/
-=======
-/*CSS for footer*/
->>>>>>> 610db39fe6cd9fb028c9a01133172af9e19828b2
+
+
 footer {
     padding: 30px;
     clear: both;
