@@ -1,6 +1,4 @@
 
-/*basic CSS styleing*/
-
 
 * {
     box-sizing: border-box;
@@ -12,8 +10,6 @@ body {
     background-color: #d9dcd6;
 }
 
-
-/*information and navigation links at top*/
 
 
 
@@ -61,8 +57,6 @@ p {
 }
 
 
-/* CSS for main photo*/
-
 .hero {
     height: 800px;
     width: 100%;
@@ -72,9 +66,6 @@ p {
     background-position: center;
     
 }
-
-/*positioning for photos for content underneath*/
-
 
 
 
@@ -95,7 +86,7 @@ p {
 }
 
 
-/*for the benefits class and photos*/
+
 
 .benefits {
     margin-right: 20px;
@@ -156,7 +147,7 @@ p {
     max-width: 150px;
 }
 
-/*used for content class info*/
+
 
 /*removed repeating style classes for content article*/
 .search-engine-optimization,
@@ -170,34 +161,27 @@ p {
     color: #ffffff;
 }
 
+
 .search-engine-optimization img {
     max-height: 200px;
-}
+} 
 
-.online-reputation-management img {
+.online-reputation-management img{
     max-height: 200px;
 }
 
-.social-media-marketing img {
+
+.social-media-marketing  img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing, h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/*for copywrite at bottom*/
 
 
 footer {
